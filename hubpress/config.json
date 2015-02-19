@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "benjohnston",
-    "repositoryName": "benjohnston.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"benjohnston","repositoryName":"benjohnston.github.io","branch":"master"},"site":{"url":"http://benjohnston.github.io"},"socialnetwork":{"linkedin":"https://www.linkedin.com/in/johnstonbenjamin/en"},"theme":{"name":"Casper","url":"http://benjohnston.github.io/themes/Casper"}}
